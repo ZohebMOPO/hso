@@ -7,3 +7,5 @@
 [ImagineCup](https://imaginecup.microsoft.com/en-us/Events) - you need to be over 16 yrs of age or you can participate in imagine cup junior.
 
 [NASA](https://nasacentral.force.com/s/explore-opportunities/internships) - must be an U.S. citizen and over 16 years of age. Scroll through the internships where it's written 9,10,11,12(allowing high schoolers)
+
+[Sandia](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/) - eligibilty in the bottom of the website
